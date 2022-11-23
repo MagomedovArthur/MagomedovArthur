@@ -1,1 +1,1 @@
-I'm Arthur Magomedov - Java Developer.
+Hi! My name is Arthur and I'm a Java Software Developer.
