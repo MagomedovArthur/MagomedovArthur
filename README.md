@@ -6,7 +6,5 @@ I'm **Backend Software Engineer👨🏻‍💻.** Welcome to my GitHub profile!
 
 <img align="left" src="https://komarev.com/ghpvc/?username=MagomedovArthur&color=2ECC40&label=PROFILE+VIEWS"/>
 <br></br>
-# <img src="https://github.com/MagomedovArthur/MagomedovArthur/tree/main/main/Developer.gif" width="55" /> Projects
 
-<p align="left">
 
