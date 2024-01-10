@@ -1,4 +1,4 @@
-<img src="https://github.com/MagomedovArthur/MagomedovArthur/blob/main/main/dev.gif" width="400" align="right"/>
+<img src="https://github.com/MagomedovArthur/MagomedovArthur/blob/main/main/dev.gif" width="350" align="right"/>
 
 ### Hi there👋
 I'm **Backend Software Engineer👨🏻‍💻.** Welcome to my GitHub profile!
